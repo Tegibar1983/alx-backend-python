@@ -2,8 +2,8 @@
 '''Task 3's module.
 '''
 
-def to_str(n: float) -> str:
-    '''Convert float nums 2 strings.
-    '''
 
+def to_str(n: float) -> str:
+    '''Converts a floating-point number to a string.
+    '''
     return str(n)
