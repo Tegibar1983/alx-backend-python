@@ -1,6 +1,6 @@
-#!/user/bin/env python3
-
-""" Annotative function named sum_list that takes input_list as function argument """
+#!/usr/bin/env python3
+'''Task 5's module.
+'''
 
 from typing import List
 
