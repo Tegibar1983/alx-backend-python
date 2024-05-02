@@ -1,5 +1,9 @@
-#!/user/bin/env python3
+#!/usr/bin/env python3
 
-""" A function that concacnate 2 strings and returns concacnated string """
+""" Task 1's module """
+
 def concat(str1: str, str2: str) -> str:
+
+    """concatenates 2 strings """
+
     return str1 + str2
